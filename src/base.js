@@ -1,7 +1,7 @@
 import firebase from 'firebase';
 
 var firebaseConfig = {
-    apiKey: "AIzaSyDmO6mB7X4p1VSc6SIqlaA2BZ00rPBDbG8",
+    apiKey: "", //API put here
     authDomain: "chat-react-app-d05f1.firebaseapp.com",
     projectId: "chat-react-app-d05f1",
     storageBucket: "chat-react-app-d05f1.appspot.com",
